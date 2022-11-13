@@ -1,9 +1,9 @@
 package com.example.server.service.impl;
 
-import com.example.server.pojo.TbBrand;
-import com.example.server.mapper.TbBrandMapper;
-import com.example.server.service.ITbBrandService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.example.server.mapper.TbBrandMapper;
+import com.example.server.pojo.TbBrand;
+import com.example.server.service.ITbBrandService;
 import org.springframework.stereotype.Service;
 
 /**
